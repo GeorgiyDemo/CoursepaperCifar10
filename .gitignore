@@ -16,3 +16,4 @@ venv
 *.h5
 .Rhistory
 *.db
+*.png
