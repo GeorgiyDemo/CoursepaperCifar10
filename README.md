@@ -31,7 +31,7 @@
 
 ### Интересные наблюдения
 
-Самые популярные и самые редкие автомобили в России на Drom.ru
+Самые популярные и самые редкие автомобили в собранном датасете
 Популярные              |  Редкие
 :----------------------------------:|:-------------------------:
 ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/Drom/img/max.png)  |  ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/Drom/img/min.png)
