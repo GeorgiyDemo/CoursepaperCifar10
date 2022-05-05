@@ -1,5 +1,11 @@
-# CourseworkCifar10
-Курсовая работа, где я сравнивал алгоритмы классического обучения с алогритмами глубокого обучения на 3х разных датасетах
+# MLCoursepapper
+Курсовая работа, где я сравнивал алгоритмы классического обучения с алогритмами глубокого обучения (ANN, CNN) на 3х разных датасетах
+
+### Ноутбуки
+
+- [CIFAR-10](https://nbviewer.org/github/GeorgiyDemo/CoursepaperCifar10/blob/master/CIFAR/CIFAR.ipynb)
+- [Stanford cars](https://nbviewer.org/github/GeorgiyDemo/CoursepaperCifar10/blob/master/StanfordCars/STANFORD.ipynb)
+- [Собственный датасет с Drom.ru](https://nbviewer.org/github/GeorgiyDemo/CoursepaperCifar10/blob/master/Drom/DROM.ipynb)
 
 ### Итоги
 
@@ -19,6 +25,23 @@
 :----------------------------------:|:-------------------------:
 ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/CIFAR/img/acc_time_plot1.png)  |  ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/CIFAR/img/acc_time_plot2.png)
 
+Если важна точность, то предпочтительным будет использование машины опорных векторов (SVM) из классических алгоритмов обучения и сверточной нейросети (CNN) из глубоких.
+
+Если важна скорость, то можно использовать наивный байесовский классификатор (Naive Bayes classifier) или метод k-ближайших соседей (k-nearest neighbors).
+
+### Интересные наблюдения
+
+Самые популярные и самые редкие автомобили в России на Drom.ru
+Популярные              |  Редкие
+:----------------------------------:|:-------------------------:
+![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/Drom/img/max.png)  |  ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/Drom/img/min.png)
+
+Производительность OpenCV и PIL
+По операциям              |  Общая
+:----------------------------------:|:-------------------------:
+![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/StanfordCars/img/plot1.png)  |  ![](https://github.com/GeorgiyDemo/CoursepaperCifar10/blob/master/StanfordCars/img/plot2.png)
+
+[Ноутбук](https://nbviewer.org/github/GeorgiyDemo/CoursepaperCifar10/blob/master/other/PillowVsOpenCV.ipynb)
 
 ### Датасеты
 [Датасет для StanfordCars](https://cloud.mail.ru/public/A1P2/NmNJvdMzS)
