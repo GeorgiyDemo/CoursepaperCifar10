@@ -21,5 +21,5 @@
 
 
 ### Датасеты
-(Датасет для StanfordCars) [https://cloud.mail.ru/public/A1P2/NmNJvdMzS]
-(Собственноручно собранный датасет с Drom.ru) [https://cloud.mail.ru/public/2Hwh/qXHpGZMZK]
+[Датасет для StanfordCars] (https://cloud.mail.ru/public/A1P2/NmNJvdMzS)
+[Собственноручно собранный датасет с Drom.ru] (https://cloud.mail.ru/public/2Hwh/qXHpGZMZK)
